@@ -1,0 +1,43 @@
+[{
+        "analogie": "un animal",
+        "valeur": "le lion",
+        "image": "img/lion+me.png",
+        "texte": "Arborant sa crinière radieuse, le lion est symbole de fierté et de courage. Au Moyen-âge, il était considéré en héraldique comme l'ennemi de l'aigle, symbole de l'empire, et symbolisait ainsi un esprit rebelle. C'est un bel animal qui représente des valeurs auxquelles j'aspire."
+    },
+    {
+        "analogie": "un élément",
+        "valeur": "la foudre",
+        "image": "img/foudre+me.png",
+        "texte": "Elle frappe en un instant et disparaît aussitôt. C'est flashy et ça en met plein les yeux. Je trouve que l'image de quelque chose de court et intense me correspond bien, c'est mon mode de travail, mon mode de motivation, mon mode de vie. 'Blink and you'll miss it.'"
+    },
+    {
+        "analogie": "un péché capital",
+        "valeur": "la paresse",
+        "image": "img/paresse+me.png",
+        "texte": "Celle-là me paraît évidente: le travail est toujours loin de moi et de mon esprit, délégué au dernier moment, et je passe ma vie à poursuivre ce qui semble futile et inutile, parce que j'y trouve néanmoins une certaine joie."
+    },
+    {
+        "analogie": "une carte du tarot de Marseille",
+        "valeur": "l'Ermite",
+        "image": "img/ermite+me.png",
+        "texte": "9ème Arcane majeur du tarot de Marseille, l'Ermite représente la prudence, la discrétion et l'introspection, 3 caractéristiques dans lesquelles je me retrouve particulièrement bien."
+    },
+    {
+        "analogie": "un personnage fictif",
+        "valeur": "Solid Snake",
+        "image": "img/snake+me.png",
+        "texte": "Dans la saga Metal Gear, Snake est un maître de l'infiltration. On nous le présente d'abord comme un soldat froid et forcené, mais il va peu à peu chercher la vérité sur le monde qui l'entoure et son existence, et redécouvrir ses émotions. C'est un personnage qui me parle beaucoup. "
+    },
+    {
+        "analogie": "une couleur",
+        "valeur": "le violet",
+        "image": "img/violet+me.png",
+        "texte": "C'est une couleur rare dans la nature, et c'est donc la couleur du mystérieux, du surnaturel. Mais c'est aussi tout simplement une couleur que j'aime pour sa valeur esthétique."
+    },
+    {
+        "analogie": "un pays",
+        "valeur": "l'Allemagne",
+        "image": "img/allemagne+me.png",
+        "texte": "Des paysages magnifiques, une gastronomie sans égal, une langue logique et élégante, malheureusement trop peu appréciée par le commun des mortels... et bien sûr la bière! Qu'y a-t-il à ne pas aimer en Allemage?"
+    }
+]

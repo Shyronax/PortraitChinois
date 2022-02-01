@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Mochiy+Pop+P+One&family=Rock+Salt&display=swap"
+        rel="stylesheet">
+    <title>Portrait Chinois</title>
+</head>
+
+<body>
+    <h1>Au bal masqué <span class="ohe">(ohé ohé)</span></h1>
+    <img src="img/lion.png" alt="" draggable="true" class="masque" id="0">
+    <img src="img/foudre.png" alt="" draggable="true" class="masque" id="1">
+    <img src="img/paresse.png" alt="" draggable="true" class="masque" id="2">
+    <img src="img/ermite.png" alt="" draggable="true" class="masque" id="3">
+    <img src="img/snake.png" alt="" draggable="true" class="masque" id="4">
+    <img src="img/violet.png" alt="" draggable="true" class="masque" id="5">
+    <img src="img/allemagne.png" alt="" draggable="true" class="masque" id="6">
+    <img src="img/me.png" alt="" class="visage" ondragover="event.preventDefault()"
+        ondragenter="event.preventDefault()">
+    <div class="popup">
+        <div class="si">
+            Si j'étais <span class="analogie">...</span>,
+        </div>
+        <div class="je">
+            Je serais <span class="valeur">...</span>.
+        </div>
+        <br>
+        <article class="desc">
+            Enfilez votre masque et libérez-vous!
+        </article>
+    </div>
+    <div class="popup2">
+        <div class="si2">
+            Si j'étais <span class="analogie2">...</span>,
+        </div>
+        <div class="je2">
+            Je serais <span class="valeur2">...</span>.
+        </div>
+        <br>
+        <article class="desc2">
+            Ici, vous pouvez créer votre propre analogie avec le formulaire ci-dessous!
+        </article>
+    </div>
+    <form action="/" method="post" class="formulaire">
+        <label for="email"><b>Votre email</b></label>
+        <input class="input" type="text" placeholder="heehee@hoohoo.com" name="email">
+        <label for="fstnm"><b>Si j'étais...</b></label>
+        <input class="input" type="text" placeholder="un truc" name="anaform">
+        <br>
+        <label for="lstnm"><b>Je serais...</b></label>
+        <input class="input" type="text" placeholder="une chose" name="valform">
+        <label for="idea"><b>Description</b></label>
+        <input class="input" type="text" placeholder="wow" name="descform">
+        <button type="button" class="btn" id="envoi">Envoyer</button>
+        <div id="messageApresEnvoi"></div>
+    </form>
+    <footer>
+        Un site réalisé par Oscar Poisson. (oscarfpoisson@gmail.com)
+        <br>
+        © 2021 Tous droits réservés par Oscar Poisson.
+        <br>
+        paper-17.jpg : © Tous droits réservés par jooinn.com
+        <br>
+        Paper-background.png : © Tous droits réservés par alc.edu
+        <br>
+        Données du formulaire gérées par Philippe Gambette. (philippe.gambette@univ-eiffel.fr)
+    </footer>
+</body>
+<script src="script.js"></script>
+
+</html>
